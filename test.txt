@@ -1,2 +1,5 @@
 what is in this text?
 no,nothing. 
+
+what is new for git?
+news for user
